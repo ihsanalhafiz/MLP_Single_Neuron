@@ -62,6 +62,7 @@ Weight data is generated automatically for just simulate the calculation. W0 is 
 - O2 = 440.868
 
 #### Simulation from modelsim waveform
+the simulation waveform can be loaded from file wave.do above.
 ![simulation_result](https://github.com/ihsanalhafiz/MLP_Single_Neuron/blob/main/Images/tb_mlp_single_simulation.png?raw=true)
  
  The simulation result is confirmed by manual calculation from excel file in directory above.
