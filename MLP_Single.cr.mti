@@ -1,0 +1,177 @@
+C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/weight_rom.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\weight_rom.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Loading package array_package
+-- Compiling entity weight_rom
+-- Compiling architecture Behavioral of weight_rom
+
+} {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/parallel.vhd {1 {vcom -work work -2002 -explicit C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/parallel.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Loading package array_package
+-- Compiling entity parallel
+-- Compiling architecture Behavioral of parallel
+
+} {} {}} C:/Users/ihsan/Documents/Vivado_project/neuron2/neuron2.srcs/sources_1/new/neuron.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\Vivado_project\neuron2\neuron2.srcs\sources_1\new\neuron.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Loading package array_package
+-- Compiling entity neuron
+-- Compiling architecture Behavioral of neuron
+
+} {} {}} C:/Users/ihsan/Documents/Vivado_project/neuron2/neuron2.srcs/sources_1/new/relu.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\Vivado_project\neuron2\neuron2.srcs\sources_1\new\relu.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Loading package array_package
+-- Compiling entity relu
+-- Compiling architecture Behavioral of relu
+
+} {} {}} C:/Users/ihsan/Documents/Vivado_project/neuron2/neuron2.srcs/sources_1/new/array_package.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\Vivado_project\neuron2\neuron2.srcs\sources_1\new\array_package.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Compiling package array_package
+
+} {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/data_ram.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\data_ram.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Loading package array_package
+-- Compiling entity data_ram
+-- Compiling architecture Behavioral of data_ram
+
+} {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/mac.vhd {1 {vcom -work work -2002 -explicit C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/mac.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Loading package array_package
+-- Compiling entity mac
+-- Compiling architecture Behavioral of mac
+
+} {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/mlp_single.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\mlp_single.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Loading package array_package
+-- Compiling entity mlp_single
+-- Compiling architecture Behavioral of mlp_single
+
+} {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/tb_weight_rom.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_weight_rom.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Loading package array_package
+-- Compiling entity tb_weight_rom
+-- Compiling architecture tb of tb_weight_rom
+-- Loading entity weight_rom
+
+} {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/tb_fsm.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_fsm.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Loading package array_package
+-- Compiling entity tb_fsm
+-- Compiling architecture tb of tb_fsm
+-- Loading entity fsm
+
+} {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/fixed_pkg_c.vhd {2 {vcom -work work -2002 -explicit C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/fixed_pkg_c.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package math_utility_pkg
+-- Compiling package fixed_pkg
+-- Loading package MATH_REAL
+-- Compiling package body fixed_pkg
+-- Loading package fixed_pkg
+** Warning: [3] C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/fixed_pkg_c.vhd(1475): (vcom-1246) Range 0 downto 1 is null.
+
+** Warning: [3] C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/fixed_pkg_c.vhd(1476): (vcom-1246) Range 0 downto 1 is null.
+
+** Warning: [3] C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/fixed_pkg_c.vhd(1477): (vcom-1246) Range 0 downto 1 is null.
+
+** Warning: [3] C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/fixed_pkg_c.vhd(6892): (vcom-1246) Range 2 to 1 is null.
+
+
+} {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/fsm.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\fsm.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Loading package array_package
+-- Compiling entity fsm
+-- Compiling architecture Behavioral of fsm
+
+} {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/tb_data_ram.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_data_ram.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Loading package array_package
+-- Compiling entity tb_data_ram
+-- Compiling architecture tb of tb_data_ram
+-- Loading entity data_ram
+
+} {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/math_utility_pkg.vhd {1 {vcom -work work -2002 -explicit C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/math_utility_pkg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Compiling package math_utility_pkg
+
+} {} {}}
