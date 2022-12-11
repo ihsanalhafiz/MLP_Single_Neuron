@@ -34,18 +34,6 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling entity neuron
 -- Compiling architecture Behavioral of neuron
 
-} {} {}} C:/Users/ihsan/Documents/Vivado_project/neuron2/neuron2.srcs/sources_1/new/relu.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\Vivado_project\neuron2\neuron2.srcs\sources_1\new\relu.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package NUMERIC_STD
--- Loading package math_utility_pkg
--- Loading package fixed_pkg
--- Loading package array_package
--- Compiling entity relu
--- Compiling architecture Behavioral of relu
-
 } {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/data_ram.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\data_ram.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
@@ -191,5 +179,15 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package array_package
 -- Compiling entity tb_mlp_single
 -- Compiling architecture tb of tb_mlp_single
+
+} {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/array_package.vhd {1 {vcom -work work -2002 -explicit C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/array_package.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Compiling package array_package
 
 } {} {}}
