@@ -9,5 +9,5 @@ Simulation was conducted in ns.
 
 ### Simulation result
 
-![simulation_result](https://github.com/[ihsanalhafiz]/[MLP_Single_Neuron]/blob/[master]/Images/tb_mlp_single_simulation.png?raw=true)
+![simulation_result](https://github.com/ihsanalhafiz/MLP_Single_Neuron/blob/master/Images/tb_mlp_single_simulation.png?raw=true)
  
