@@ -5,5 +5,9 @@ I used modelsim free edition that can be downloaded [here](https://www.intel.com
 
 Simulation was conducted in ns.
 
+## Simulation
 
+### Simulation result
+
+![simulation_result](https://github.com/[ihsanalhafiz]/[MLP_Single_Neuron]/blob/[master]/Images/tb_mlp_single_simulation.png?raw=true)
  
