@@ -22,18 +22,6 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling entity parallel
 -- Compiling architecture Behavioral of parallel
 
-} {} {}} C:/Users/ihsan/Documents/Vivado_project/neuron2/neuron2.srcs/sources_1/new/neuron.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\Vivado_project\neuron2\neuron2.srcs\sources_1\new\neuron.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package NUMERIC_STD
--- Loading package math_utility_pkg
--- Loading package fixed_pkg
--- Loading package array_package
--- Compiling entity neuron
--- Compiling architecture Behavioral of neuron
-
 } {} {}} C:/Users/ihsan/Documents/Vivado_project/neuron2/neuron2.srcs/sources_1/new/relu.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\Vivado_project\neuron2\neuron2.srcs\sources_1\new\relu.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
@@ -142,6 +130,20 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 ** Warning: [3] C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/fixed_pkg_c.vhd(6892): (vcom-1246) Range 2 to 1 is null.
 
 
+} {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/tb_neuron.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_neuron.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Loading package array_package
+-- Compiling entity tb_neuron
+-- Compiling architecture tb of tb_neuron
+
 } {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/fsm.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\fsm.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
@@ -173,5 +175,19 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Compiling package math_utility_pkg
+
+} {} {}} C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/tb_mlp_single.vhd {1 {vcom -work work -2002 -explicit {C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_mlp_single.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package math_utility_pkg
+-- Loading package fixed_pkg
+-- Loading package array_package
+-- Compiling entity tb_mlp_single
+-- Compiling architecture tb of tb_mlp_single
 
 } {} {}}
