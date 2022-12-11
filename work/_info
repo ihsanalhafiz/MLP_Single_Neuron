@@ -11,20 +11,20 @@ Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
 Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
 w1670752202
 Z5 dC:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single
-8C:\Users\ihsan\Documents\Vivado_project\neuron2\neuron2.srcs\sources_1\new\array_package.vhd
-FC:\Users\ihsan\Documents\Vivado_project\neuron2\neuron2.srcs\sources_1\new\array_package.vhd
+8C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/array_package.vhd
+FC:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/array_package.vhd
 l0
 L9
 VQ0D4N;F^SVFzBnla`B1=g3
+!s100 =FDRE2=iF22^bP;Z`3dTk1
 Z6 OV;C;10.1d;51
 32
+!i10b 1
+!s108 1670773671.278000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/array_package.vhd|
+!s107 C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/array_package.vhd|
 Z7 o-work work -2002 -explicit -O0
 Z8 tExplicit 1
-!s100 =FDRE2=iF22^bP;Z`3dTk1
-!i10b 1
-!s108 1670773411.441000
-!s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ihsan\Documents\Vivado_project\neuron2\neuron2.srcs\sources_1\new\array_package.vhd|
-!s107 C:\Users\ihsan\Documents\Vivado_project\neuron2\neuron2.srcs\sources_1\new\array_package.vhd|
 Edata_ram
 Z9 w1670751238
 Z10 DPx4 work 13 array_package 0 22 Q0D4N;F^SVFzBnla`B1=g3
@@ -41,7 +41,7 @@ L10
 VAZhKRF>?cL^6BJCLla___1
 R6
 32
-Z14 !s108 1670773412.026000
+Z14 !s108 1670773670.702000
 Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\data_ram.vhd|
 Z16 !s107 C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\data_ram.vhd|
 R7
@@ -83,7 +83,7 @@ VLdSSbB2n;?g1FfgZI:U^Z1
 R6
 32
 b1
-Z21 !s108 1670773411.261000
+Z21 !s108 1670773670.086000
 Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/fixed_pkg_c.vhd|
 Z23 !s107 C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/fixed_pkg_c.vhd|
 R7
@@ -126,7 +126,7 @@ L10
 V>iVhfZDlS82SKI=LK;S<D2
 R6
 32
-Z28 !s108 1670773411.762000
+Z28 !s108 1670773670.464000
 Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\fsm.vhd|
 Z30 !s107 C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\fsm.vhd|
 R7
@@ -169,7 +169,7 @@ L7
 VXhoo>4S7kMS^Cf:GGC6^b0
 R6
 32
-Z35 !s108 1670773411.614000
+Z35 !s108 1670773670.314000
 Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/mac.vhd|
 Z37 !s107 C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/mac.vhd|
 R7
@@ -210,7 +210,7 @@ R7
 R8
 !s100 ^0bPBIE;EjbA9]9SHFXAi0
 !i10b 1
-!s108 1670773411.203000
+!s108 1670773670.028000
 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/math_utility_pkg.vhd|
 !s107 C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/math_utility_pkg.vhd|
 Emlp_single
@@ -229,7 +229,7 @@ L11
 VS=HL:;@ehOf^4>iMFY5fl1
 R6
 32
-Z41 !s108 1670773412.100000
+Z41 !s108 1670773670.784000
 Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\mlp_single.vhd|
 Z43 !s107 C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\mlp_single.vhd|
 R7
@@ -272,7 +272,7 @@ L11
 VGQiY1PC]G<JRMi6HjeIgK0
 R6
 32
-Z47 !s108 1670773411.853000
+Z47 !s108 1670773670.546000
 Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/neuron.vhd|
 Z49 !s107 C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/neuron.vhd|
 R7
@@ -315,7 +315,7 @@ L11
 VKjKWE6na`:WHgU<KJRmJj2
 R6
 32
-Z53 !s108 1670773411.688000
+Z53 !s108 1670773670.390000
 Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/parallel.vhd|
 Z55 !s107 C:/Users/ihsan/Documents/KTH_Master_Embedded_Systems/IL2230/Lab/Lab3/MLP_Single/parallel.vhd|
 R7
@@ -358,7 +358,7 @@ L7
 V=7n<Y18L76d1`jP7z`0M31
 R6
 32
-Z59 !s108 1670773411.532000
+Z59 !s108 1670773670.234000
 Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ihsan\Documents\Vivado_project\neuron2\neuron2.srcs\sources_1\new\relu.vhd|
 Z61 !s107 C:\Users\ihsan\Documents\Vivado_project\neuron2\neuron2.srcs\sources_1\new\relu.vhd|
 R7
@@ -403,7 +403,7 @@ L9
 V5@[dO?2kog7LWC0mXj<0T3
 R6
 32
-Z67 !s108 1670773412.356000
+Z67 !s108 1670773671.030000
 Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_data_ram.vhd|
 Z69 !s107 C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_data_ram.vhd|
 R7
@@ -451,7 +451,7 @@ L9
 V[Ffkg@DM6@U>fB=QGYn9b0
 R6
 32
-Z73 !s108 1670773412.438000
+Z73 !s108 1670773671.115000
 Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_fsm.vhd|
 Z75 !s107 C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_fsm.vhd|
 R7
@@ -472,7 +472,6 @@ DEx4 work 6 tb_fsm 0 22 [Ffkg@DM6@U>fB=QGYn9b0
 l33
 L12
 VeHRUm:kzlI^^LCdCX99l]0
-!s100 Ak9m=UzZjU:6fOk522_<<1
 R6
 32
 R73
@@ -480,6 +479,7 @@ R74
 R75
 R7
 R8
+!s100 Ak9m=UzZjU:6fOk522_<<1
 !i10b 1
 Etb_mlp_single
 Z76 w1670767430
@@ -497,15 +497,15 @@ Z78 FC:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Si
 l0
 L9
 V2_B@E646>SU9J=_`2N?9b2
-!s100 R4MYCiKULl>OM>Ed03ag81
 R6
 32
-!i10b 1
-Z79 !s108 1670773412.521000
+Z79 !s108 1670773671.195000
 Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_mlp_single.vhd|
 Z81 !s107 C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_mlp_single.vhd|
 R7
 R8
+!s100 R4MYCiKULl>OM>Ed03ag81
+!i10b 1
 Atb
 R10
 R11
@@ -515,21 +515,21 @@ R64
 R2
 R3
 R4
-Z82 DEx4 work 13 tb_mlp_single 0 22 2_B@E646>SU9J=_`2N?9b2
+DEx4 work 13 tb_mlp_single 0 22 2_B@E646>SU9J=_`2N?9b2
 l76
 L12
-Z83 VW<]AFAJnGJ:KDj3eibzN93
-Z84 !s100 YPKM2^MfmV>RO9@WOfOI60
+VW<]AFAJnGJ:KDj3eibzN93
+!s100 YPKM2^MfmV>RO9@WOfOI60
 R6
 32
-!i10b 1
 R79
 R80
 R81
 R7
 R8
+!i10b 1
 Etb_neuron
-Z85 w1670768819
+Z82 w1670768819
 R10
 R11
 R1
@@ -539,16 +539,16 @@ R2
 R3
 R4
 R5
-Z86 8C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_neuron.vhd
-Z87 FC:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_neuron.vhd
+Z83 8C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_neuron.vhd
+Z84 FC:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_neuron.vhd
 l0
 L9
 Vj0akP7zjl4T`QYV4N>QWH1
 R6
 32
-Z88 !s108 1670773412.182000
-Z89 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_neuron.vhd|
-Z90 !s107 C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_neuron.vhd|
+Z85 !s108 1670773670.866000
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_neuron.vhd|
+Z87 !s107 C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_neuron.vhd|
 R7
 R8
 !s100 PfmBU:IR2mgi6C?:]^=d]2
@@ -568,15 +568,15 @@ L12
 VFl5hAkFbm9<KjX^;3:ZAO2
 R6
 32
-R88
-R89
-R90
+R85
+R86
+R87
 R7
 R8
 !s100 aPHPINcK4i=m^J1fMMMo73
 !i10b 1
 Etb_weight_rom
-Z91 w1670766102
+Z88 w1670766102
 R10
 R11
 R1
@@ -586,22 +586,22 @@ R2
 R3
 R4
 R5
-Z92 8C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_weight_rom.vhd
-Z93 FC:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_weight_rom.vhd
+Z89 8C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_weight_rom.vhd
+Z90 FC:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_weight_rom.vhd
 l0
 L9
 V[Ug2eoKoDek;^S=MBCJVS3
 R6
 32
-Z94 !s108 1670773412.273000
-Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_weight_rom.vhd|
-Z96 !s107 C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_weight_rom.vhd|
+Z91 !s108 1670773670.948000
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_weight_rom.vhd|
+Z93 !s107 C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\tb_weight_rom.vhd|
 R7
 R8
 !s100 <;hiReKK4hKdCI`:mHhhL0
 !i10b 1
 Atb
-Z97 DEx4 work 10 weight_rom 0 22 eMVDBT[NN;aRX4bW8O>`R3
+Z94 DEx4 work 10 weight_rom 0 22 eMVDBT[NN;aRX4bW8O>`R3
 R10
 R11
 R1
@@ -616,15 +616,15 @@ L12
 VZgkTfC:Ja5=DVfX>efh@:1
 R6
 32
-R94
-R95
-R96
+R91
+R92
+R93
 R7
 R8
 !s100 <dIYj5nmH`X]l]g47]MWP2
 !i10b 1
 Eweight_rom
-Z98 w1670766091
+Z95 w1670766091
 R10
 R11
 R1
@@ -632,16 +632,16 @@ R2
 R3
 R4
 R5
-Z99 8C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\weight_rom.vhd
-Z100 FC:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\weight_rom.vhd
+Z96 8C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\weight_rom.vhd
+Z97 FC:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\weight_rom.vhd
 l0
 L10
 VeMVDBT[NN;aRX4bW8O>`R3
 R6
 32
-Z101 !s108 1670773411.944000
-Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\weight_rom.vhd|
-Z103 !s107 C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\weight_rom.vhd|
+Z98 !s108 1670773670.628000
+Z99 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\weight_rom.vhd|
+Z100 !s107 C:\Users\ihsan\Documents\KTH_Master_Embedded_Systems\IL2230\Lab\Lab3\MLP_Single\weight_rom.vhd|
 R7
 R8
 !s100 GWlnKc?:40ToO^D7@S;_O2
@@ -653,15 +653,15 @@ R1
 R2
 R3
 R4
-R97
+R94
 l30
 L24
 Vzi7h4QiIT_@7R]:2?nB1C3
 R6
 32
-R101
-R102
-R103
+R98
+R99
+R100
 R7
 R8
 !s100 ^AfT``g4Aodlm8;h=YDlX3
